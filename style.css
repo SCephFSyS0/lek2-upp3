@@ -1,0 +1,22 @@
+
+body {
+    font-family: "Times New Roman";
+}
+
+h1 {
+    text-align: left;
+    font-family: "Times New Roman";
+    color:  black;
+    background-color: yellow;
+}
+
+h2 {
+    font-family: "Times New Roman";
+    color: black;
+    background-color: cyan;
+}
+
+ul {
+    list-style: square;
+}
+
